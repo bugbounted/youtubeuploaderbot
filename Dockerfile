@@ -1,5 +1,5 @@
 # 基于官方 Python 镜像创建一个新的镜像
-FROM python:3.7.3
+FROM python:3.8.16
 
 # 设置工作目录
 WORKDIR /app
